@@ -31,7 +31,7 @@ and channel performance using Microsoft Excel.
 > Note: The Excel file is shared via Drive due to GitHub file size and preview limitations.
 
 ## 📸 Dashboard Preview
-(Screenshots included in the repository)
+![image alt](https://github.com/rishu8587/Vrinada---Store---Sales---Analysis---Excel/blob/beb2e1ebd212a65e955f433a2fd63b84e347d5c7/IMG_3728.PNG)
 
 ## 👤 Author
 Rishabh
