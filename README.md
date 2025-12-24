@@ -25,6 +25,7 @@ This project analyzes sales data of Vrinda Store (2022) to understand customer b
 
 ## 📁 Files in this Repository
 - `Vrinda Store Data Analysis.xlsx` → Interactive Excel dashboard
+- https://1drv.ms/x/c/75f89e22e212f492/IQDmdqUt30K8Q64M_iqFiQ2sAYT_YcQc54BeuCjd9bxjMak
 
 ## 📸 Dashboard Preview
 (See screenshots below)
